@@ -1,2 +1,2 @@
 # wpm-hook
-Hook WriteProcessMemoryWith MinHook
+Hook WriteProcessMemory With MinHook
